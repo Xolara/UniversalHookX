@@ -62,5 +62,8 @@
     <ClInclude Include="src\backend.hpp" />
     <ClInclude Include="src\menu\menu.hpp" />
     <ClInclude Include="src\hooks\backend\vulkan\hook_vulkan.hpp" />
+    <ClInclude Include="src\headers\configs.h" />
+    <ClInclude Include="src\headers\Extras.h" />
+    <ClInclude Include="src\headers\presetthemes.h" />
   </ItemGroup>
 </Project>
